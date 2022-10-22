@@ -80,7 +80,7 @@ $ yarn dev
 # or
 $ npm run dev
 
-# The server will initialize in the <http://localhost:5173>
+# The app will initialize in the <http://localhost:5173>
 ```
 
 ## :memo: License
