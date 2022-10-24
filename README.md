@@ -58,7 +58,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://react-query-comparison
+$ git clone https://github.com/wsasouza/react-query-comparison.git
 
 # Access
 $ cd react-query-comparison
