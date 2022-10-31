@@ -4,7 +4,7 @@ import { IProduct } from '../../../types/IProduct'
 import { useQuery } from 'react-query'
 
 const fetchProducts = async () => {
-  const response = await Axios.get(`http://localhost:3333/products`)
+  const response = await Axios.get(`https://my-json-server.typicode.com/wsasouza/react-query-comparison/products/products`)
   return response.data
 }
 
